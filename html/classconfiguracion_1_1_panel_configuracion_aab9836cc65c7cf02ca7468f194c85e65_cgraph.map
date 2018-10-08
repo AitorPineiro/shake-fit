@@ -1,0 +1,9 @@
+<map id="configuracion.PanelConfiguracion.actionPerformed" name="configuracion.PanelConfiguracion.actionPerformed">
+<area shape="rect" id="node2" href="$classclases_1_1_usuario.html#a7e470a3d535a56dc9454c2f48fe3ab32" title="clases.Usuario.getNombre" alt="" coords="311,5,486,32"/>
+<area shape="rect" id="node3" href="$classclases_1_1_usuario.html#a8e0669887f6b36f986b1a13146a19b4f" title="clases.Usuario.getSonido" alt="" coords="313,56,484,83"/>
+<area shape="rect" id="node4" href="$classconfiguracion_1_1_serieko_linea_kontrolatzailea.html#ad70433445ac917689add8ffc146ccb3c" title="configuracion.SeriekoLinea\lKontrolatzailea.leerPeso" alt="" coords="310,107,487,149"/>
+<area shape="rect" id="node5" href="$classconfiguracion_1_1_serieko_linea_kontrolatzailea.html#a0aa74605951055d7d29b0e885019c9b9" title="configuracion.SeriekoLinea\lKontrolatzailea.close" alt="" coords="310,173,487,214"/>
+<area shape="rect" id="node6" href="$classclases_1_1_usuario.html#a27860fa0378b9cc41aaee4ec045e1acb" title="clases.Usuario.getPeso" alt="" coords="319,239,479,265"/>
+<area shape="rect" id="node7" href="$classclases__personalizadas_1_1_reloj_sistema.html#a24cad8ca53e9214a81dfb413f632ff57" title="clases_personalizadas.Reloj\lSistema.getFecha" alt="" coords="305,290,492,331"/>
+<area shape="rect" id="node8" href="$classclases_1_1_usuario.html#a52cf901626ff226418f6eca439908ee4" title="clases.Usuario.setSonido" alt="" coords="313,356,484,383"/>
+</map>

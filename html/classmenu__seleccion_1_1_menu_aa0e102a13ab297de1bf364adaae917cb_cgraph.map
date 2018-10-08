@@ -1,0 +1,7 @@
+<map id="menu_seleccion.Menu.windowClosing" name="menu_seleccion.Menu.windowClosing">
+<area shape="rect" id="node2" href="$classclases__personalizadas_1_1_reloj_sistema.html#a68dfd11750ec0a30be4646221c75e683" title="clases_personalizadas.Reloj\lSistema.getFechaa" alt="" coords="252,5,439,47"/>
+<area shape="rect" id="node3" href="$classclases_1_1_usuario.html#ac2a66ca5cfa9b3cb1d266f79cf1aa15f" title="clases.Usuario.setUltimo\lInicio" alt="" coords="262,71,429,112"/>
+<area shape="rect" id="node4" href="$classclases_1_1_usuario.html#a2e51d60ae2927f39302d8f6b9b5cc474" title="clases.Usuario.getUltimo\lInicio" alt="" coords="262,136,429,177"/>
+<area shape="rect" id="node5" href="$classclases_1_1_usuario.html#a7e470a3d535a56dc9454c2f48fe3ab32" title="clases.Usuario.getNombre" alt="" coords="258,202,433,229"/>
+<area shape="rect" id="node6" href="$classacceso__ficheros_1_1_escritura_usuario_ficheros.html#a4e2e757d274f78e6c2bee2f36fc61afd" title="acceso_ficheros.Escritura\lUsuarioFicheros.escribir" alt="" coords="259,253,431,295"/>
+</map>
